@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+@theme {
+
+    --font-sm: '0.750rem';
+    --font-base: '1rem';
+    --font-xl: '1.333rem';
+    --font-2xl: '1.777rem';
+    --font-3xl: '2.369rem';
+    --font-4xl: '3.158rem';
+    --font-5xl: '4.210rem';
+
+    --color-primary-500: #120d52;
+    --color-primary-600: #0b0833;
+    --color-primary-700: #060420;
+    --color-primary-800: #03020f;
+}
